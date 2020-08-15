@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/about/index.html</loc>
+    
+    <lastmod>2020-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/2020/07/28/Test/</loc>
+    
+    <lastmod>2020-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/2020/07/27/hello-world/</loc>
+    
+    <lastmod>2020-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/2020/07/27/My-first-Blog/</loc>
+    
+    <lastmod>2020-07-27</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://ax-52.github.io/about/index.html</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/tags/blog/</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://ax-52.github.io/about/index.html/categories/lab/</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

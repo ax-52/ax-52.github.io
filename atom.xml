@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cirtus&#39;blog</title>
+  
+  
+  <link href="https://ax-52.github.io/about/index.html/atom.xml" rel="self"/>
+  
+  <link href="https://ax-52.github.io/about/index.html/"/>
+  <updated>2020-08-15T15:25:25.364Z</updated>
+  <id>https://ax-52.github.io/about/index.html/</id>
+  
+  <author>
+    <name>Cirtus</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://ax-52.github.io/about/index.html/2020/07/28/Test/"/>
+    <id>https://ax-52.github.io/about/index.html/2020/07/28/Test/</id>
+    <published>2020-07-28T05:03:57.000Z</published>
+    <updated>2020-08-15T15:25:25.364Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一个测试&quot;&gt;&lt;a href=&quot;#这是一个测试&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="lab" scheme="https://ax-52.github.io/about/index.html/categories/lab/"/>
+    
+    
+    <category term="blog" scheme="https://ax-52.github.io/about/index.html/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My first Blog</title>
+    <link href="https://ax-52.github.io/about/index.html/2020/07/27/My-first-Blog/"/>
+    <id>https://ax-52.github.io/about/index.html/2020/07/27/My-first-Blog/</id>
+    <published>2020-07-27T15:51:27.000Z</published>
+    <updated>2020-07-27T18:38:06.325Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Hello, this is ax-52 ‘s blog, created on July 27,2020&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;This-is-title&quot;&gt;&lt;a href=&quot;#This-is-title&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://ax-52.github.io/about/index.html/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ax-52.github.io/about/index.html/2020/07/27/hello-world/"/>
+    <id>https://ax-52.github.io/about/index.html/2020/07/27/hello-world/</id>
+    <published>2020-07-27T15:23:27.000Z</published>
+    <updated>2020-08-15T14:23:57.242Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
